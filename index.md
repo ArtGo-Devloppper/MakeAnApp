@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Make An App Wiki
 
-You can use the [editor on GitHub](https://github.com/ArtGo-Devloppper/MakeAnApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Downloads
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Dowload for Windows](http://makeanapp.epizy.com/downloads/laset.zip)
 
 ```markdown
 Syntax highlighted code block
