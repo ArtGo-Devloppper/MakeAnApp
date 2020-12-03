@@ -2,7 +2,7 @@
 
 ### Downloads
 
-[Dowload for Windows](http://makeanapp.epizy.com/downloads/laset.zip)
+[Dowload for Windows](http://makeanapp.epizy.com/downloads/MakeAnApp.osapp)
 
 ```markdown
 Syntax highlighted code block
